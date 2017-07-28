@@ -116,7 +116,7 @@ TouchableScale.propTypes = {
     pressInFriction: React.PropTypes.number,
     pressOutTension: React.PropTypes.number,
     pressOutFriction: React.PropTypes.number,
-    useNativeDriver: React.PropTypes.boolean,
+    useNativeDriver: React.PropTypes.bool,
 };
 
 TouchableScale.defaultProps = {
